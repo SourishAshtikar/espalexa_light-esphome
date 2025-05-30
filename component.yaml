@@ -1,0 +1,5 @@
+name: espalexa_light
+code_type: component
+root_class: espalexa_light::EspalexaLightComponent
+header: "espalexa_light.h"
+source: "espalexa_light.cpp"
